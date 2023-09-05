@@ -3,7 +3,7 @@
 ## hello
 ### I am grant
 
-I used [GitHub](https://pages.github.com/) to make this page
+I used [GitHub](https://github.com/) to make this page
 
 
 [!NOTE] 
