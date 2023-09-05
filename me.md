@@ -1,4 +1,4 @@
-[!WARNING] 
+[!NOTE] 
 I have a better understanding of markdown
 
 
