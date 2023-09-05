@@ -1,6 +1,8 @@
 [!NOTE] 
 I have a better understanding of markdown
 
+I wish the background color was `#0969DA`
+
 
 <sup>Hello I have read about github<sup> :+1:
 
